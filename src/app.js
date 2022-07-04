@@ -387,7 +387,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry('RYAN FLOYD', {
+      var geometry = new THREE.TextGeometry('ARUNPRASATH', {
         font: font,
         size: 3,
         height: 0.5,
@@ -431,7 +431,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry('SOFTWARE ENGINEER', {
+      var geometry = new THREE.TextGeometry('PROJECT ENGINEER', {
         font: font,
         size: 1.5,
         height: 0.5,
